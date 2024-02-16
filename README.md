@@ -1,1 +1,1 @@
-# Digit_clock
+# Digital_clock
